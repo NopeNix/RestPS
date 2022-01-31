@@ -1,0 +1,12 @@
+[
+  {
+    "RequestType": "GET",
+    "RequestURL": "/proc",
+    "RequestCommand": "Get-Process"
+  },
+  {
+    "RequestType": "GET",
+    "RequestURL": "/endpoint/status",
+    "RequestCommand": "return 1"
+  }
+]
