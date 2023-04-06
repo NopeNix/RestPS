@@ -23,7 +23,7 @@ version: "3"
 
 services:
   restps:
-    image: nopenix/restps:latest # !!!! Use :latest for x64, use :arm64v8 for arm64v8
+    image: nopenix/restps:latest
     restart: unless-stopped
     ports:
       - 80:80
