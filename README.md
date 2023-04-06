@@ -1,4 +1,9 @@
-# Description
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/NopeNix/RestPS/Build%20and%20Push%20to%20Docker%20Hub.yml?label=Build%20and%20Push%20to%20Docker%20Hub)
+![GitHub issues](https://img.shields.io/github/issues-raw/NopeNix/RestPS)
+![Docker Stars](https://img.shields.io/docker/stars/nopenix/restps)
+![GitHub Repo stars](https://img.shields.io/github/stars/NopeNix/RestPS?label=GitHub%20Stars)
+![GitHub top language](https://img.shields.io/github/languages/top/NopeNix/RestPS)
+# RestPS
 General use RestPS PowerShell Container for x64 platforms. (Feel free to use the [dockerfile] to build for other Platforms, too (RaspberryPi's (3+4) are supported!)
 RestPS is a awesome super easy to use PowerShell Module. I made a container out of it.
 RestPS is not build by me please check out the original Repo on Github: [https://github.com/jpsider/RestPS](https://github.com/jpsider/RestPS) don't forget to leave a Star
