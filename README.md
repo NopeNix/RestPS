@@ -3,10 +3,11 @@
 ![Docker Stars](https://img.shields.io/docker/stars/nopenix/restps)
 ![GitHub Repo stars](https://img.shields.io/github/stars/NopeNix/RestPS?label=GitHub%20Stars)
 # RestPS
-General use RestPS PowerShell Container for x64 platforms. (Feel free to use the [dockerfile] to build for other Platforms, too (RaspberryPi's (3+4) are supported!)
+General use RestPS PowerShell Container for x64 platforms.
 RestPS is a awesome super easy to use PowerShell Module. I made a container out of it.
 
 #### RestPS is not build by me please check out the original Repo on Github: [https://github.com/jpsider/RestPS](https://github.com/jpsider/RestPS) don't forget to leave a Star
+<br>
 
 # Getting Started
 ## RestPS Module
@@ -37,12 +38,7 @@ services:
 # Env Variables
 | Variable | Effect |
 | --- | --- |
-|port|Specify the Port RestPS should listen on|
-|path_to_endpoints_json_file|Path to the JSON Endpoints definition file |
+| port | Specify the Port RestPS should listen on |
+| path_to_endpoints_json_file | Path to the JSON Endpoints definition file |
 
 
-# Tags
-| Tag | Arch | Comment |
-| --- | --- | --- |
-|latest|x64|Default image|
-|arm64v8|arm64v8|ARM 64Bit Build for e.g. Raspberry Pi 3 or 4|
