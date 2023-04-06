@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/NopeNix/RestPS/Build%20and%20Push%20to%20Docker%20Hub.yml?label=Build%20and%20Push%20to%20Docker%20Hub)
 ![GitHub issues](https://img.shields.io/github/issues-raw/NopeNix/RestPS)
 ![Docker Stars](https://img.shields.io/docker/stars/nopenix/restps)
