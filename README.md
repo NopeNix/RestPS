@@ -7,7 +7,6 @@ General use RestPS PowerShell Container for x64 platforms. (Feel free to use the
 RestPS is a awesome super easy to use PowerShell Module. I made a container out of it.
 
 #### RestPS is not build by me please check out the original Repo on Github: [https://github.com/jpsider/RestPS](https://github.com/jpsider/RestPS) don't forget to leave a Star
->>>>>>> 574abcb0a2af055f3fc91158bf4b15fc33377ca9
 
 # Getting Started
 ## RestPS Module
